@@ -14,7 +14,7 @@
 │  Experience  : 6+ Years                                              │
 │  Location    : Pune, Maharashtra, India                              │
 │                                                                      │
-│  Languages   : Java 8/17, React.js, ShellScript, SQL                            │
+│  Languages   : Java 8/17, React.js, ShellScript, SQL                 │
 │                                                                      │
 │  Backend     : Spring Boot, Spring Cloud, Hibernate, JPA             │
 │  Architecture: Microservices, REST APIs, Event-Driven                │
