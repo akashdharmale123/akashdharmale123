@@ -1,4 +1,45 @@
 
+
+<h1 align="center">Hey 👋, I'm Akash</h1>
+<h3 align="center">Senior Java Full Stack Developer with 6+ Years Experience</h3>
+
+## `Welcome to my profile`
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         My Tech-Stacks                               │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  Role        : Senior Full Stack Java Developer                      │
+│  Experience  : 6+ Years                                              │
+│  Location    : Pune, Maharashtra, India                              │
+│                                                                      │
+│  Languages   : Java 8/17, React.js, ShellScript, SQL                            │
+│                                                                      │
+│  Backend     : Spring Boot, Spring Cloud, Hibernate, JPA             │
+│  Architecture: Microservices, REST APIs, Event-Driven                │
+│  Messaging   : Apache Kafka                                          │
+│  Security    : Spring Security, JWT                                  │
+│                                                                      │
+│  Frontend    : React.js, JSP, HTML, CSS                              │
+│  Database    : MySQL, DB2, Redis                                     │
+│                                                                      │
+│  DevOps      : Docker, Kubernetes, Jenkins, Git                      │
+│  Cloud       : AWS                                                   │
+│  Testing     : JUnit, Mockito, JMeter                                │
+│  Monitoring  : Grafana, Zipkin, Kibana                               │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+### About
+I'm a **Senior Full Stack Java Developer with 6+ years of experience** building enterprise applications with a strong focus on **Java, Spring Boot, Microservices and scalable REST APIs**.
+
+My strength is **Designing scalable and maintainable enterprise solutions with a focus on performance, reliability and clean architecture.** 
+
+📫 **Email:** [akashdharmale123@gmail.com](mailto:akashdharmale123@gmail.com)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/akash-dharmale-profile001)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashdharmale123@gmail.com) 
 
